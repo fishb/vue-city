@@ -1,2 +1,2 @@
 # vue-city
-一个vue的demo
+一个基于vue的城市切换组件
