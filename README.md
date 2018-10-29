@@ -1,5 +1,7 @@
 # city
 
+vue实现的城市选择组件   vue-city
+
 > city tab
 
 ## Build Setup
